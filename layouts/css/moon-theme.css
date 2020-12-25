@@ -1,0 +1,117 @@
+/*start varaibles*/
+/*end varaibles*/
+.profilebody {
+  background: url(../images/3152735.png) no-repeat;
+  background-size: cover;
+}
+
+.right, .les, .rightcol, .leftcol  {
+  background-color: #23222a;
+}
+.right h3 {
+  color: #813e21;
+}
+.right p {
+  color: #ff9248;
+}
+.right .box {
+  color: #ff9248;
+}
+.right .box i {
+  color: #813e21;
+}
+.right .active {
+  border-right: 2px solid #233090;
+}
+
+.col-md-8 .setting li, .add-comment h3, .add-comment label, .sub_cat .col-md-9 .setting li {
+  color: #eee;
+}
+.col-md-8 .setting .ellipsis ul li a, .sub_cat .col-md-9 .setting .ellipsis ul li a {
+  color: #111d42;
+}
+.col-md-8 .setting .ellipsis ul li:hover, .sub_cat .col-md-9 .setting .ellipsis ul li:hover {
+  background-color: #c5cae9;
+}
+.col-md-8 .setting .bars li a, .sub_cat .col-md-9 .setting .bars li a {
+  color: #111d42;
+}
+.col-md-8 .setting .lis, .sub_cat .col-md-9 .setting .lis {
+  border: 2px solid #ff9248;
+}
+.col-md-8 .setting .lis .theme, .sub_cat .col-md-9 .setting .lis .theme {
+  color: #813e21;
+}
+.col-md-8 .setting .note ul li, .sub_cat .col-md-9 .setting .note ul li {
+  color: #111d42;
+}
+.col-md-8 .setting .note ul li:first-child, .col-md-8 .setting .note ul li:first-child:hover,
+.sub_cat .col-md-9 .setting .note ul li:first-child, .sub_cat .col-md-9 .setting .note ul li:first-child:hover {
+  background-color: #23222a;
+  color: #fff;
+  cursor: no-drop;
+}
+.col-md-8 .setting .note ul li:before, .sub_cat .col-md-9 .setting .note ul li:before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 15px solid;
+  border-color: transparent transparent #23222a transparent;
+}
+.col-md-8 .setting .note ul li:hover, .sub_cat .col-md-9 .setting .note ul li:hover {
+  background-color: #c5cae9;
+}
+.col-md-8 .left .card {
+  background-color: #23222a;
+}
+.col-md-8 .left .card .card-header, .sub_cat .col-md-9 .left .card .card-header {
+  color: #813e21;
+}
+.col-md-8 .left .card h4, .sub_cat .col-md-9 .left .card h4 {
+  color: #813e21;
+}
+.col-md-8 .left .card h6, .sub_cat .col-md-9 .left .card h6 {
+  color: #ff9248 !important;
+}
+.col-md-8 .left .card li , .sub_cat .col-md-9 .left .card li {
+  color: #6c74a9;
+  background-color: #353245;
+}
+.alls, .cats, .comment, .add-comment {
+  background-color: #23222a;
+  box-shadow: 2px 2px 2px #4b4949;
+}
+.alls h1, .cats .cathead h1, .maind h3, .first-row h2, .second-row h3, .second-row h2, .les h2, .contenentlist a, .tag h1,
+.leftcol h1, .les span, .cats h1, .comment-box h5, .contenent .text, .maincont a, .maincont span, .exam h1  {
+  color: #813e21;
+}
+.alls label, .cats .cathead p, .maind p, .first-row i , .second-row i, .les , .contenent i, .tag a h3, .lead, .leftcol .contenent .row .col-lg-6 p, .contenentlist a i , .maincont i {
+  color: #ff9248;
+}
+.maincont a {border-bottom: 2px solid #ff9248; padding-bottom: 4px; margin-bottom: 5px;}
+.les, .comment-box .lead, .contenent .col-md-4, .leftcol .contenent .row .col-lg-6, .maincont  {
+  background-color: #7c7a7d;
+}
+.first-row h4 , .second-row h4 {border-color: #ff9248;}
+.first-row h4:hover , .second-row h4:hover, .contenent .col-md-4:hover  {
+  background-color: #ff9248;
+  color: #fff;
+}
+.contenent .col-md-4:hover i {color: #fff;}
+.first-row h4:hover i , .second-row h4:hover i, .contenent .col-md-4:hover .text, .contenent .col-md-4:hover .number  {
+  color: #fff;
+}
+.first-row h4 , .second-row h4 {color: #6c74a9;}
+.alls .asterisk, .contenent .number  {
+  color: #ff9248;
+}
+hr {border-top: 2px solid #fff;}
+.contenentlist a:hover { background-color: #7c7a7d;}
+.contenentlist a {border-color: #7c7a7d;}
+.comment-box .lead:before {border-color: transparent #7c7a7d transparent transparent;}
+.full-view a span {color: #fff;}
+.table-primary, .table-primary, .table-primary>td, .table-primary>th {background-color: #813e21; color: #fff;}
+.leftcol .contenent .row .col-lg-6 {border-color: #c0bbb9; color: #813e21;}
+/*# sourceMappingURL=moon-theme.css.map */

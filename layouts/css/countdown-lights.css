@@ -1,0 +1,33 @@
+/* THE WRAPPER */
+.countdown {
+  display: flex;
+  margin: 0 auto;
+  max-width: 350px;
+  font-family: Impact, Charcoal, sans-serif;
+  text-align: center;
+}
+
+/* DAY/HR/MIN/SEC */
+.countdown .square {
+  flex-grow: 1;
+  padding: 10px;
+  margin: 5px;
+}
+.countdown .digits {
+  font-size: 24px;
+  background: #696969;
+  color: #fff;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+.countdown .text {
+  margin-top: 10px;
+  color: #696969;
+}
+
+/* IF YOU WANT TO SPECIFICALLY STYLE THE DAY/HR/MIN/SEC
+.countdown .square.days .digits { }
+.countdown .square.hours .digits { }
+.countdown .square.minutes .digits { }
+.countdown .square.seconds .digits { }
+*/

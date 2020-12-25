@@ -1,0 +1,101 @@
+/*start varaibles*/
+/*end varaibles*/
+.profilebody {
+  background: url(../images/648300-PORQ48-148.png) no-repeat;
+  background-size: cover;
+}
+
+.right, .les, .rightcol, .leftcol {
+  background-color: #fff;
+}
+.right h3 {
+  color: #111d42;
+}
+.right p {
+  color: #4259a1;
+}
+.right .box {
+  color: #4259a1;
+}
+.right .box i {
+  color: #111d42;
+}
+.right .active {
+  border-right: 2px solid #233090;
+}
+
+.col-md-8 .setting li, .sub_cat .col-md-9 .setting li, .lead {
+  color: #233090;
+}
+.col-md-8 .setting .ellipsis ul li:hover, .sub_cat .col-md-9 .setting .ellipsis ul li:hover {
+  background-color: #c5cae9;
+}
+.col-md-8 .setting .lis, .sub_cat .col-md-9 .setting .lis {
+  border: 2px solid #4259a1;
+}
+.col-md-8 .setting .lis .theme, .sub_cat .col-md-9 .setting .lis .theme, .exam h1 {
+  color: #111d42;
+}
+.col-md-8 .setting .note ul li:first-child, .col-md-8 .setting .note ul li:first-child:hover,
+.sub_cat .col-md-9 .setting .note ul li:first-child, .sub_cat .col-md-9 .setting .note ul li:first-child:hover{
+  background-color: #605dff;
+  color: #fff;
+  cursor: no-drop;
+}
+.col-md-8 .setting .note ul li:before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 15px solid;
+  border-color: transparent transparent #605dff transparent;
+}
+.col-md-8 .setting .note ul li:hover {
+  background-color: #c5cae9;
+}
+.col-md-8 .left .card .card-header, .maincont a, .maincont span {
+  color: #111d42;
+}
+.col-md-8 .left .card h4 {
+  color: #111d42;
+}
+.col-md-8 .left .card h6 {
+  color: #4259a1 !important;
+}
+.col-md-8 .left .card li, .maincont i, .tag a h3 {
+  color: #233090;
+}
+.maincont a {border-bottom: 2px solid #233090; padding-bottom: 4px; margin-bottom: 5px;}
+.alls, .cats, .comment {
+  background-color: #fff;
+  box-shadow: 2px 2px 2px #888;
+}
+.alls h1, .cats .cathead h1, .maind h3, .first-row h2, .first-row h3, .leftcol h1, .contenent .text, .contenentlist a, .tag h1,
+.first-row h4 , .second-row h4, .second-row h3, .second-row h2, .les h2, .les span, .cats h1, .comment-box h5, .add-comment h3, .add-comment label  {
+  color: #111d42;
+}
+.alls label, .cats .cathead p, .maind p, .first-row i , .second-row i, .les p, .contenent i, .contenentlist a i {
+  color: #233090;
+}
+.first-row h4 , .second-row h4 {border-color: #233090;}
+.first-row h4:hover , .second-row h4:hover, .contenent .col-md-4:hover{
+  background-color: #233090;
+  color: #fff;
+}
+.contenent .col-md-4:hover i {color: #fff;}
+.first-row h4:hover i , .second-row h4:hover i, .contenent .col-md-4:hover .text, .contenent .col-md-4:hover .number {
+  color: #fff;
+}
+.alls .asterisk, .contenent .number {
+  color: #605dff;
+}
+.les, .comment-box .lead, .add-comment, .contenent .col-md-4, .leftcol .contenent .row .col-lg-6, .maincont {
+  background-color: #eee;
+}
+.contenentlist a:hover { background-color: #b8b0b0;}
+.contenentlist a {border-color: #b8b0b0;}
+.comment-box .lead:before {border-color: transparent #eee transparent transparent;}
+.leftcol .contenent .row .col-lg-6 {border-color: #b8b0b0; color: #233090;}
+.leftcol .contenent .row .col-lg-6 p {color: #4259a1;}
+/*# sourceMappingURL=sun-theme.css.map */
